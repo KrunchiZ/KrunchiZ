@@ -1,7 +1,8 @@
 # Hello there, welcome!👋
 
-- CGI / VFX lighting artist, graduated from The One Academy.
-- Currently studying computer science / programming at 42 Kuala Lumpur.
+- CGI / VFX artist, specialized in shaders and lighting.
+- Graduated from [The One Academy](https://www.toa.edu.my/).
+- Currently studying computer science / programming at [42 Kuala Lumpur](https://www.instagram.com/42kualalumpur/).
 
 ### Tools that I use:
 

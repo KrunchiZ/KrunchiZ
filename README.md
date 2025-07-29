@@ -1,9 +1,9 @@
-# Hello there, welcome to KrunchiZ's github!👋
+# Hello there, welcome!👋
 
 - CGI / VFX lighting artist, graduated from The One Academy.
 - Currently studying computer science / programming at 42 Kuala Lumpur.
 
-## Tools that I Use
+### Tools that I use:
 
 | | |
 | --- | ---|
@@ -12,15 +12,12 @@
 | CGI / VFX | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Icon_of_maya_2023.png" width="64" alt="Autodesk Maya">  <img src="https://www.cadac.com/globalassets/software/fy23---autodesk/autodesk-arnold-small-social-400.png" width="64" alt="Arnold Renderer">  <img src="https://textures.motionsquared.net/wp-content/uploads/2020/04/redshift-renderer-logo.png" width="64" alt="Maxon Redshift">  <img src="https://www.foundry.com/sites/default/files/2021-03/ICON_NUKE-rgb-yellow-01.png" width="64" alt="Foundry Nuke">  <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" width="64" alt="Unreal Engine"> |
 | Programming Languages | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="64" alt="C">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="64" alt="Python">  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="64" alt="bash">  <!--img src="https://raw.githubusercontent.com/Zsh-art/logo/refs/heads/main/png/white_vertical_icon.png" width="64" alt="zshell"-->  <!--img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" width="64" alt="lua"--> |
 
-## 📫 How to reach me:
-
-  - [linkedin](https://www.linkedin.com/in/chiangkaizhi/)
-  - [email](kaizhi3006@gmail.com)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 📫 How to reach me: ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

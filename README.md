@@ -1,9 +1,9 @@
-## Hello there, welcome to KrunchiZ's github!👋
+# Hello there, welcome to KrunchiZ's github!👋
 
 - CGI / VFX lighting artist, graduated from The One Academy.
 - Currently studying computer science / programming at 42 Kuala Lumpur.
 
-## Tools
+## Tools that I Use
 
 | | |
 | --- | ---|

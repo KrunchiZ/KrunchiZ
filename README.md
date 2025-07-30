@@ -1,9 +1,8 @@
 # Hello there, welcome!👋
 
 - CGI / VFX generalist, specialized in shaders and lighting.
-- Graduated from The One Academy. [(link)](https://www.toa.edu.my/)
+- Graduated & guest lectured at The One Academy. [(link)](https://www.toa.edu.my/)
 - Currently studying computer science / programming at 42 Kuala Lumpur. [(link)](https://www.instagram.com/42kualalumpur/)
-- (2024) Guest lecturer at The One Academy.
 
 ---
 

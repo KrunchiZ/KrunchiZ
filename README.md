@@ -90,4 +90,6 @@ Lecturing at **The One Academy** has sharpened my ability to explain *why* somet
 
 *```From rendering CGI to writing systems — always building something that makes sense under the hood.```*
 
+<img width="256" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBzNnVocjVsY3FwdWdmZW1tdHExMnB5a2dzZ3RndmduMnQ3eDZiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="burning_gif" />
+
 </div>

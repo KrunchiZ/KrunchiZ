@@ -8,7 +8,7 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Domain | Tools |
 |---|---|
@@ -16,8 +16,10 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 | **CGI / VFX** | <img src="icons/maya.png" width="32" alt="Autodesk Maya"> Autodesk Maya · <img src="icons/arnold.png" width="32" alt="Arnold Renderer"> Arnold · <img src="icons/redshift.png" width="32" alt="Maxon Redshift"> Redshift · <img src="icons/nuke.png" width="32" alt="Foundry Nuke"> Foundry Nuke |
 | **Multimedia** | <img src="icons/photoshop.svg" width="32" alt="Photoshop"> Photoshop · <img src="icons/after_effect.png" width="32" alt="After Effect"> After Effect · <img src="icons/premiere_pro.png" width="32" alt="Premiere Pro"> Premiere Pro |
 
-<!--![Chiang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrunchiZ&show_icons=true&theme=default&hide_border=true)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrunchiZ&layout=compact&theme=default&hide_border=true)
+<!--
+![Chiang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrunchiZ&show_icons=true&theme=github_dark_dimmed&hide_border=true)
+-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrunchiZ&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=false&size_weight=0.7&count_weight=0.3)
 
 ---
 
@@ -46,6 +48,6 @@ Lecturing at **The One Academy** has sharpened my ability to explain *why* somet
 
 ---
 
-*From rendering light to writing systems — always building something that makes sense under the hood.*
+***```From rendering light to writing systems — always building something that makes sense under the hood.```***
 
 

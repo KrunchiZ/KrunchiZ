@@ -14,7 +14,7 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 
 ### Tech Stack
 
-<img src="icons/linux.svg" width="32" alt="linux"> · <img src="icons/c.png" width="32" alt="C"> · <img src="icons/cpp.png" width="32" alt="C++"> · <img src="icons/python.png" width="32" alt="python"> · <img src="icons/bash.svg" width="32" alt="bash">
+<img src="icons/linux.png" width="32" alt="linux"> · <img src="icons/c.png" width="32" alt="C"> · <img src="icons/cpp.png" width="32" alt="C++"> · <img src="icons/python.png" width="32" alt="python"> · <img src="icons/bash.svg" width="32" alt="bash">
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrunchiZ&theme=github_dark_dimmed&rank_icon=github&hide_border=false&include_all&hide=stars,prs,issues&show_icons=true)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrunchiZ&hide_title=true&layout=donut-vertical&theme=tokyonight&hide_border=false&size_weight=0.7&count_weight=0.3)

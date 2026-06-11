@@ -24,7 +24,7 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 ---
 
 ### 42 Kuala Lumpur
-[**42KL**](https://www.instagram.com/42kualalumpur/) is a tuition-free, future-proof computer science school with a peer-to-peer learning environment that does not involve teachers and lectures. It is an innovative education model that was designed to develop the skills needed to develop technical and people skills that match the expectations of the labor market using a project-based learning approach. \
+[**42KL**](https://www.instagram.com/42malaysia/) is a tuition-free, future-proof computer science school with a peer-to-peer learning environment that does not involve teachers and lectures. It is an innovative education model that was designed to develop the skills needed to develop technical and people skills that match the expectations of the labor market using a project-based learning approach. \
 \
 The unforgiving curriculum is exactly the kind of environment I thrive in. Projects span system programming, OOP, algorithms, Unix internals, networking, containers, data engineering and beyond.
 
@@ -42,7 +42,7 @@ Lecturing at **The One Academy** has sharpened my ability to explain *why* somet
 
 | | |
 |---|---|
-| Cadet | [42 Kuala Lumpur](https://www.instagram.com/42kualalumpur/) |
+| Cadet | [42 Kuala Lumpur](https://www.instagram.com/42malaysia/) |
 | Ex CGI/VFX Lighting Artist | [Tau Films](https://taufilms.com/) |
 | Ex Lecturer | [The One Academy](https://www.toa.edu.my/) |
 

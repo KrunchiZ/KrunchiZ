@@ -24,10 +24,12 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 <a href="https://github.com/KrunchiZ/minishell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=minishell&theme=tokyonight" />
 </a>
-<a href="[https://github.com/anuraghazra/convoychat](https://github.com/KrunchiZ/fdf)">
+
+<a href="https://github.com/KrunchiZ/fdf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=fdf&theme=tokyonight" />
 </a>
-</div>
+
+
 
 ---
 
@@ -55,6 +57,6 @@ Lecturing at **The One Academy** has sharpened my ability to explain *why* somet
 | Ex Lecturer | [The One Academy](https://www.toa.edu.my/) |
 ---
 
-***```From rendering light to writing systems — always building something that makes sense under the hood.```***
+*```From rendering light to writing systems — always building something that makes sense under the hood.```*
 
-
+</div>

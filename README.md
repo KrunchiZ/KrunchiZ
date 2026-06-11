@@ -12,7 +12,7 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 
 | Domain | Tools |
 |---|---|
-| **Languages** | <img src="icons/c.png" width="36" alt="C"> C · <img src="icons/cpp.png" width="32" alt="C++"> C++ · <img src="icons/python.png" width="32" alt="python"> Python · <img src="icons/bash.svg" width="32" alt="bash"> Shell |
+| **Languages** | <img src="icons/c.png" width="32" alt="C"> C · <img src="icons/cpp.png" width="32" alt="C++"> C++ · <img src="icons/python.png" width="32" alt="python"> Python · <img src="icons/bash.svg" width="32" alt="bash"> Shell |
 | **CGI / VFX** | <img src="icons/maya.png" width="32" alt="Autodesk Maya"> Autodesk Maya · <img src="icons/arnold.png" width="32" alt="Arnold Renderer"> Arnold · <img src="icons/redshift.png" width="32" alt="Maxon Redshift"> Redshift · <img src="icons/nuke.png" width="32" alt="Foundry Nuke"> Foundry Nuke |
 | **Multimedia** | <img src="icons/photoshop.svg" width="32" alt="Photoshop"> Photoshop · <img src="icons/after_effect.png" width="32" alt="After Effect"> After Effect · <img src="icons/premiere_pro.png" width="32" alt="Premiere Pro"> Premiere Pro |
 

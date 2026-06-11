@@ -8,28 +8,58 @@ I spent years crafting light and rendering photorealistic worlds as a CGI/VFX ar
 \
 I build programs the same way I used to build 3D scenes: deliberately, layer by layer, systematically.
 
+<a href="https://www.linkedin.com/in/chiangkaizhi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
+&nbsp;
+<a href = "mailto: kaizhi3006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+</br>
+
 ### Tools
 
-<img src="icons/maya.png" width="32" alt="Autodesk Maya"> · <img src="icons/arnold.png" width="32" alt="Arnold Renderer"> · <img src="icons/redshift.png" width="32" alt="Maxon Redshift"> · <img src="icons/nuke.png" width="32" alt="Foundry Nuke"> · <img src="icons/photoshop.svg" width="32" alt="Photoshop"> · <img src="icons/after_effect.png" width="32" alt="After Effect"> · <img src="icons/premiere_pro.png" width="32" alt="Premiere Pro">
+<img src="icons/maya-original-wordmark.svg" width="32" alt="Autodesk Maya">
+&nbsp;.&nbsp;
+<img src="icons/arnold.png" width="32" alt="Arnold Renderer">
+&nbsp;.&nbsp;
+<img src="icons/redshift.png" width="32" alt="Maxon Redshift">
+&nbsp;.&nbsp;
+<img src="icons/nuke.png" width="32" alt="Foundry Nuke">
+&nbsp;.&nbsp;
+<img src="icons/photoshop-original.svg" width="32" alt="Photoshop">
+&nbsp;.&nbsp;
+<img src="icons/aftereffects-original.svg" width="32" alt="After Effect">
+&nbsp;.&nbsp;
+<img src="icons/premierepro-original.svg" width="32" alt="Premiere Pro">
 
 ### Tech Stack
 
-<img src="icons/linux.png" width="32" alt="linux"> · <img src="icons/c.png" width="32" alt="C"> · <img src="icons/cpp.png" width="32" alt="C++"> · <img src="icons/python.png" width="32" alt="python"> · <img src="icons/bash.svg" width="32" alt="bash">
+<img src="icons/linux-original.svg" width="32" alt="linux">
+&nbsp;.&nbsp;
+<img src="icons/c-original.svg" width="32" alt="C">
+&nbsp;.&nbsp;
+<img src="icons/cplusplus-original.svg" width="32" alt="C++">
+&nbsp;.&nbsp;
+<img src="icons/python-original.svg" width="32" alt="python">
+&nbsp;.&nbsp;
+<img src="icons/bash.svg" width="32" alt="bash">
+&nbsp;.&nbsp;
+<img src="icons/sqlite-original.svg" width="32" alt="sqlite">
+<br/><br/>
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrunchiZ&theme=github_dark_dimmed&rank_icon=github&hide_border=false&include_all&hide=stars,prs,issues&show_icons=true)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrunchiZ&hide_title=true&layout=donut-vertical&theme=tokyonight&hide_border=false&size_weight=0.7&count_weight=0.3)
+<a href="https://github.com/KrunchiZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrunchiZ&hide_title=true&layout=donut-vertical&theme=tokyonight&hide_border=false&size_weight=0.7&count_weight=0.3"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrunchiZ&theme=tokyonight&rank_icon=github&hide_border=false&include_all&hide=stars,prs,issues&show_icons=true"/> -->
+</a>
 
 ### Project Showcase
 
 <a href="https://github.com/KrunchiZ/minishell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=minishell&theme=tokyonight" />
 </a>
-
+<br/><br/>
 <a href="https://github.com/KrunchiZ/fdf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=fdf&theme=tokyonight" />
 </a>
-
-
+<br/><br/>
+</div>
 
 ---
 
@@ -46,17 +76,18 @@ Working in VFX taught me to break complex systems into layers, optimize for perf
 \
 Lecturing at **The One Academy** has sharpened my ability to explain *why* something works, not just that it does.
 
+| **Experience**          | **Company**                                               |
+| ---                     | ---                                                       |
+| Workshop Facilitator    | [42 Kuala Lumpur](https://www.instagram.com/42malaysia/)  |
+| CGI/VFX Lighting Artist | [Tau Films](https://taufilms.com/)                        |
+| Lecturer                | [The One Academy](https://www.toa.edu.my/)                |
+
 ---
 
-### Background
+<div align="center">
+<img src="https://raw.githubusercontent.com/KrunchiZ/KrunchiZ/output/snake.svg" alt="Snake animation" />
+<br/><br/>
 
-| **Role** | **Company** |
-|---|---|
-| Cadet & <br/>Workshop Facilitator | [42 Kuala Lumpur](https://www.instagram.com/42malaysia/) |
-| Ex CGI/VFX Lighting Artist | [Tau Films](https://taufilms.com/) |
-| Ex Lecturer | [The One Academy](https://www.toa.edu.my/) |
----
-
-*```From rendering light to writing systems — always building something that makes sense under the hood.```*
+*```From rendering CGI to writing systems — always building something that makes sense under the hood.```*
 
 </div>

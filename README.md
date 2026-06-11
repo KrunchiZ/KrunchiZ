@@ -59,6 +59,8 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=fdf&theme=tokyonight" />
 </a>
 <br/><br/>
+<img src="https://raw.githubusercontent.com/KrunchiZ/KrunchiZ/output/snake-dark.svg" alt="Snake animation" />
+<br/><br/>
 </div>
 
 ---
@@ -85,8 +87,6 @@ Lecturing at **The One Academy** has sharpened my ability to explain *why* somet
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KrunchiZ/KrunchiZ/output/snake.svg" alt="Snake animation" />
-<br/><br/>
 
 *```From rendering CGI to writing systems — always building something that makes sense under the hood.```*
 

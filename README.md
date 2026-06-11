@@ -40,7 +40,7 @@ Lecturing at **The One Academy** has sharpened my ability to explain *why* somet
 
 ### Background
 
-| | |
+| **Role** | **Company** |
 |---|---|
 | Cadet | [42 Kuala Lumpur](https://www.instagram.com/42malaysia/) |
 | Ex CGI/VFX Lighting Artist | [Tau Films](https://taufilms.com/) |

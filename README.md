@@ -1,13 +1,12 @@
-# Hello there, welcome!
+## Hello there, I'm Chiang.
 
 - Cadet at [42 Kuala Lumpur](https://www.instagram.com/42kualalumpur/).
 - Ex CGI / VFX lighting artist at [Tau Films](https://taufilms.com/).
 - Ex lecturer at [The One Academy](https://www.toa.edu.my/).
 
-
 ---
 
-### Tech Stacks & Tools:
+#### Tech Stacks & Tools:
 
 | | |
 | --- | ---|

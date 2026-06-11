@@ -8,6 +8,8 @@ I spent years crafting light and rendering photorealistic worlds as a CGI/VFX ar
 \
 I build programs the same way I used to build 3D scenes: deliberately, layer by layer, systematically.
 
+###
+
 <a href="https://www.linkedin.com/in/chiangkaizhi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
 &nbsp;
 <a href = "mailto: kaizhi3006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>

@@ -17,34 +17,35 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 
 ### Tools
 
-<img src="icons/maya-original-wordmark.svg" width="32" alt="Autodesk Maya">
+<img src="icons/maya-original-wordmark.svg" width="36" alt="Autodesk Maya">
 &nbsp;.&nbsp;
-<img src="icons/arnold.png" width="32" alt="Arnold Renderer">
+<img src="icons/arnold.png" width="36" alt="Arnold Renderer">
 &nbsp;.&nbsp;
-<img src="icons/redshift.png" width="32" alt="Maxon Redshift">
+<img src="icons/redshift.png" width="36" alt="Maxon Redshift">
 &nbsp;.&nbsp;
-<img src="icons/nuke.png" width="32" alt="Foundry Nuke">
+<img src="icons/nuke.png" width="36" alt="Foundry Nuke">
 &nbsp;.&nbsp;
-<img src="icons/photoshop-original.svg" width="32" alt="Photoshop">
+<img src="icons/photoshop-original.svg" width="36" alt="Photoshop">
 &nbsp;.&nbsp;
-<img src="icons/aftereffects-original.svg" width="32" alt="After Effect">
+<img src="icons/aftereffects-original.svg" width="36" alt="After Effect">
 &nbsp;.&nbsp;
-<img src="icons/premierepro-original.svg" width="32" alt="Premiere Pro">
+<img src="icons/premierepro-original.svg" width="36" alt="Premiere Pro">
 
 ### Tech Stack
 
-<img src="icons/linux-original.svg" width="32" alt="linux">
+<img src="icons/linux-original.svg" width="36" alt="linux">
 &nbsp;.&nbsp;
-<img src="icons/c-original.svg" width="32" alt="C">
+<img src="icons/c-original.svg" width="36" alt="C">
 &nbsp;.&nbsp;
-<img src="icons/cplusplus-original.svg" width="32" alt="C++">
+<img src="icons/cplusplus-original.svg" width="36" alt="C++">
 &nbsp;.&nbsp;
-<img src="icons/python-original.svg" width="32" alt="python">
+<img src="icons/python-original.svg" width="36" alt="python">
 &nbsp;.&nbsp;
-<img src="icons/bash.svg" width="32" alt="bash">
+<img src="icons/bash.svg" width="36" alt="bash">
 &nbsp;.&nbsp;
-<img src="icons/sqlite-original.svg" width="32" alt="sqlite">
-<br/><br/>
+<img src="icons/sqlite-original.svg" width="36" alt="sqlite">
+
+###
 
 <a href="https://github.com/KrunchiZ">
   <img align="center" src="./profile/top-langs.svg"/>
@@ -64,9 +65,13 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 <a href="https://github.com/KrunchiZ/kyouth-job-listing-profiler">
   <img align="center" src="./profile/kyouth-job-listing-profiler-pin.svg" />
 </a>
-<br/><br/>
+
+###
+
 <img src="https://raw.githubusercontent.com/KrunchiZ/KrunchiZ/output/snake-dark.svg" alt="Snake animation" />
-<br/><br/>
+
+###
+
 </div>
 
 ---

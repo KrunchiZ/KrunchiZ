@@ -2,8 +2,8 @@
 
 ## Software Engineer With An Unusual Background
 
-Hi, I'm **Chiang**!\
-\
+### Hi, I'm **Chiang**!
+
 I spent years crafting light and rendering photorealistic worlds as a CGI/VFX artist and teaching the craft as a lecturer — now I apply that same systematic, detail-obsessed thinking to programming in C, C++ as well as Python. \
 \
 I build programs the same way I used to build 3D scenes: deliberately, layer by layer, systematically.

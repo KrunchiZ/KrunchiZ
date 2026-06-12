@@ -76,9 +76,9 @@ The unforgiving curriculum is exactly the kind of environment I thrive in. Proje
 
 ### How My Past Shapes My Code
 
-Working in VFX taught me to break complex systems into layers, optimize for performance (render times are unforgiving), and communicate technical ideas to non-technical people — skills that translate directly into writing clean, efficient codes and pipelines. \
+Working in VFX hsa taught me to break complex systems into layers, optimize for performance (render times are unforgiving), and communicate technical ideas to non-technical people — skills that translate directly into writing clean, efficient codes and pipelines. \
 \
-Lecturing at **The One Academy** has sharpened my ability to explain *why* something works, not just that it does.
+Furthermore, lecturing at **The One Academy** has sharpened my ability to explain *why* something works, not just that it does.
 
 | **Experience**          | **Company**                                               |
 | ---                     | ---                                                       |

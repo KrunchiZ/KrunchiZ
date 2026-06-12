@@ -47,22 +47,22 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 <br/><br/>
 
 <a href="https://github.com/KrunchiZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrunchiZ&hide_title=true&layout=donut-vertical&theme=tokyonight&hide_border=false&size_weight=0.7&count_weight=0.3"/>
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrunchiZ&theme=tokyonight&rank_icon=github&hide_border=false&include_all&hide=stars,prs,issues&show_icons=true"/> -->
+  <img align="center" src="./profile/top-langs.svg"/>
+  <!-- <img align="center" src="./profile/stats.svg"/> -->
 </a>
 
 ### Project Showcase
 
 <a href="https://github.com/KrunchiZ/minishell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=minishell&theme=tokyonight" />
+  <img align="center" src="./profile/minishell-pin.svg" />
 </a>
 <br/><br/>
 <a href="https://github.com/KrunchiZ/fdf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=fdf&theme=tokyonight" />
+  <img align="center" src="./profile/fdf-pin.svg" />
 </a>
 <br/><br/>
 <a href="https://github.com/KrunchiZ/kyouth-job-listing-profiler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=kyouth-job-listing-profiler&theme=tokyonight" />
+  <img align="center" src="./profile/kyouth-job-listing-profiler-pin.svg" />
 </a>
 <br/><br/>
 <img src="https://raw.githubusercontent.com/KrunchiZ/KrunchiZ/output/snake-dark.svg" alt="Snake animation" />

@@ -61,6 +61,10 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=fdf&theme=tokyonight" />
 </a>
 <br/><br/>
+<a href="https://github.com/KrunchiZ/kyouth-job-listing-profiler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrunchiZ&repo=kyouth-job-listing-profiler&theme=tokyonight" />
+</a>
+<br/><br/>
 <img src="https://raw.githubusercontent.com/KrunchiZ/KrunchiZ/output/snake-dark.svg" alt="Snake animation" />
 <br/><br/>
 </div>

@@ -19,10 +19,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >
+          options: >-
             username=${{ github.repository_owner }}&theme=tokyonight
-            &rank_icon=github&hide_border=false&include_all
-            &show_icons=true
+            &rank_icon=github&hide_border=false&include_all&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,10 +29,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >
-            username=${{ github.repository_owner }}
-            &layout=donut-vertical&theme=tokyonight&hide_border=false
-            &size_weight=0.7&count_weight=0.3&hide_title=true
+          options: >-
+            username=${{ github.repository_owner }}&layout=donut-vertical&theme=tokyonight
+            &hide_border=false&size_weight=0.7&count_weight=0.3&hide_title=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -41,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=KrunchiZ&repo=minishell&theme=tokyonight
+          options: username=${{ github.repository_owner }}&repo=minishell&theme=tokyonight
           path: profile/minishell-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -49,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=KrunchiZ&repo=fdf&theme=tokyonight
+          options: username=${{ github.repository_owner }}&repo=fdf&theme=tokyonight
           path: profile/fdf-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -57,8 +55,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: >
-            username=KrunchiZ&repo=kyouth-job-listing-profiler&theme=tokyonight
+          options: >-
+            username=${{ github.repository_owner }}
+            &repo=kyouth-job-listing-profiler&theme=tokyonight
           path: profile/kyouth-job-listing-profiler-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

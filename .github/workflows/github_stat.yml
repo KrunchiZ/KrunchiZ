@@ -22,7 +22,7 @@ jobs:
           options: >
             username=${{ github.repository_owner }}&theme=tokyonight
             &rank_icon=github&hide_border=false&include_all
-            &hide=stars,prs,issues&show_icons=true
+            &show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

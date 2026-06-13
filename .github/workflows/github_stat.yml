@@ -31,9 +31,9 @@ jobs:
         with:
           card: top-langs
           options: >
-            username=${{ github.repository_owner }}&hide_title=true
+            username=${{ github.repository_owner }}
             &layout=donut-vertical&theme=tokyonight&hide_border=false
-            &size_weight=0.7&count_weight=0.3
+            &size_weight=0.7&count_weight=0.3&hide_title=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

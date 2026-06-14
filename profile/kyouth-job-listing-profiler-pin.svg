@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">This project is Week 1 of a 3-week Resume Skill Gap</tspan><tspan dy="1.2em" x="25">Analyzer. Week 1 focuses entirely on the data engineering</tspan><tspan dy="1.2em" x="25">foundation: a robust, local ETL pipeline (Extract, Transform,...</tspan>
+      <tspan dy="1.2em" x="25">Week 1 of a 3-week Resume Skill Gap Analyzer workshop.</tspan><tspan dy="1.2em" x="25">Week 1 focuses entirely on the data engineering foundation:</tspan><tspan dy="1.2em" x="25">a robust, local ETL pipeline (Extract, Transform, Load) that...</tspan>
     </text>
 
     <g transform="translate(30, 75)">

@@ -15,7 +15,7 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 <a href = "mailto: kaizhi3006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
 </br>
 
-### Tools
+### VFX Tools
 
 <img src="icons/maya-original-wordmark.svg" width="36" alt="Autodesk Maya">
 &nbsp;.&nbsp;

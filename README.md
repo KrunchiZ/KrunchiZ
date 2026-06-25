@@ -64,8 +64,8 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 <a href="https://github.com/KrunchiZ/kyouth-job-listing-profiler">
   <img align="center" src="./profile/kyouth-job-listing-profiler-pin.svg" />
 </a>
-<a href="https://github.com/KrunchiZ/kyouth-skill-gap-ai-analyzer">
-  <img align="center" src="./profile/kyouth-skill-gap-ai-analyzer-pin.svg" />
+<a href="https://github.com/KrunchiZ/kyouth-resume-skill-gap-analyzer-app">
+  <img align="center" src="./profile/kyouth-resume-skill-gap-analyzer-app-pin.svg" />
 </a>
 
 ###

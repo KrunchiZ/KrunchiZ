@@ -33,8 +33,6 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 
 ### Tech Stack
 
-<img src="icons/linux-original.svg" width="36" alt="linux">
-&nbsp;.&nbsp;
 <img src="icons/c-original.svg" width="36" alt="C">
 &nbsp;.&nbsp;
 <img src="icons/cplusplus-original.svg" width="36" alt="C++">
@@ -43,7 +41,22 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 &nbsp;.&nbsp;
 <img src="icons/bash.svg" width="36" alt="bash">
 &nbsp;.&nbsp;
+<img src="icons/html5-original.svg" width="36" alt="html5">
+&nbsp;.&nbsp;
+<img src="icons/javascript-original.svg" width="36" alt="javascript">
+&nbsp;.&nbsp;
+<img src="icons/typescript-original.svg" width="36" alt="typescript">
+<br><br>
+<img src="icons/linux-original.svg" width="36" alt="linux">
+&nbsp;.&nbsp;
+<img src="icons/git-original.svg" width="36" alt="git">
+&nbsp;.&nbsp;
 <img src="icons/sqlite-original.svg" width="36" alt="sqlite">
+&nbsp;.&nbsp;
+<img src="icons/docker-plain-wordmark.svg" width="36" alt="docker">
+&nbsp;.&nbsp;
+<img src="icons/fastapi-original.svg" width="36" alt="fastapi">
+
 
 ###
 

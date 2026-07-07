@@ -70,7 +70,15 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=kyouth-resume-skill-gap-analyzer-app&theme=tokyonight
           path: profile/kyouth-resume-skill-gap-analyzer-app-pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
- 
+
+      - name: Generate kadpilot pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=kadpilot&theme=tokyonight
+          path: profile/kadpilot-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

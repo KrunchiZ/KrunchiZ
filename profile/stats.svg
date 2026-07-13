@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">kchiang's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 1051, Total PRs: 0, Total Issues: 1, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 1119, Total PRs: 0, Total Issues: 1, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 202.51560276488954;
+        stroke-dashoffset: 202.1250714837587;
       }
     }
   

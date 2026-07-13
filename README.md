@@ -85,6 +85,10 @@ I build programs the same way I used to build 3D scenes: deliberately, layer by 
 <a href="https://github.com/KrunchiZ/kadpilot">
   <img align="center" src="./profile/kadpilot-pin.svg" />
 </a>
+<br><br>
+<a href="https://github.com/KrunchiZ/csh-engineering-website">
+  <img align="center" src="./profile/csh-engineering-website-pin.svg" />
+</a>
 
 ###
 

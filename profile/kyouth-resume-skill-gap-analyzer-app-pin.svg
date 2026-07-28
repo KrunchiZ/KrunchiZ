@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Full-stack chat application that analyzes a user's resume</tspan><tspan dy="1.2em" x="25">against a database of job listings to identify skill gaps,</tspan><tspan dy="1.2em" x="25">powered by AI models. Built as Week 3 of a 3-week project...</tspan>
+      <tspan dy="1.2em" x="25">Full-stack chat application that analyzes a user&#39;s resume</tspan><tspan dy="1.2em" x="25">against a database of job listings to identify skill gaps,</tspan><tspan dy="1.2em" x="25">powered by AI models. Built as Week 3 of a 3-week project...</tspan>
     </text>
 
     <g transform="translate(30, 75)">

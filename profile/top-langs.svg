@@ -109,7 +109,7 @@
         <svg data-testid="donut">
           
       <g class="stagger" style="animation-delay: 100ms">
-        <circle 
+        <circle
           cx="150"
           cy="100"
           r="80"
@@ -124,7 +124,7 @@
       </g>
     
       <g class="stagger" style="animation-delay: 200ms">
-        <circle 
+        <circle
           cx="150"
           cy="100"
           r="80"
@@ -139,7 +139,7 @@
       </g>
     
       <g class="stagger" style="animation-delay: 300ms">
-        <circle 
+        <circle
           cx="150"
           cy="100"
           r="80"
@@ -154,7 +154,7 @@
       </g>
     
       <g class="stagger" style="animation-delay: 400ms">
-        <circle 
+        <circle
           cx="150"
           cy="100"
           r="80"
@@ -169,7 +169,7 @@
       </g>
     
       <g class="stagger" style="animation-delay: 500ms">
-        <circle 
+        <circle
           cx="150"
           cy="100"
           r="80"
@@ -184,7 +184,7 @@
       </g>
     
       <g class="stagger" style="animation-delay: 600ms">
-        <circle 
+        <circle
           cx="150"
           cy="100"
           r="80"

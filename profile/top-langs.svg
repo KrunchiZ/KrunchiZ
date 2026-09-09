@@ -59,7 +59,9 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
+    .progress-background { fill: #ddd; }
     
+          
 
           
       /* Animations */
@@ -84,9 +86,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -118,7 +126,7 @@
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="41.23815743499904"
+          size="36.443531713756"
           data-testid="lang-donut"
         />
       </g>
@@ -132,8 +140,8 @@
           stroke="#3572A5"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="207.28558791259567"
-          size="24.368557306982062"
+          stroke-dashoffset="183.18517040448398"
+          size="29.329079513458765"
           data-testid="lang-donut"
         />
       </g>
@@ -147,8 +155,8 @@
           stroke="#f34b7d"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="329.7753168953104"
-          size="10.01759648594412"
+          stroke-dashoffset="330.60920358213673"
+          size="10.279889384968708"
           data-testid="lang-donut"
         />
       </g>
@@ -162,8 +170,8 @@
           stroke="#3178c6"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="380.1292489383008"
-          size="8.834513885440964"
+          stroke-dashoffset="382.28156353659017"
+          size="8.913936186503458"
           data-testid="lang-donut"
         />
       </g>
@@ -174,11 +182,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#89e051"
+          stroke="#e34c26"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="424.53635921116216"
-          size="8.224394443484899"
+          stroke-dashoffset="427.08789383753015"
+          size="8.605210751219408"
           data-testid="lang-donut"
         />
       </g>
@@ -189,11 +197,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#e34c26"
+          stroke="#f1e05a"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="465.8766746733652"
-          size="7.3167804431489305"
+          stroke-dashoffset="470.34240084332663"
+          size="6.428352450093663"
           data-testid="lang-donut"
         />
       </g>
@@ -206,42 +214,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 41.24%
+        C 36.44%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 24.37%
+        Python 29.33%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 10.02%
+        C++ 10.28%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 8.83%
+        TypeScript 8.91%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 8.22%
+        HTML 8.61%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 7.32%
+        JavaScript 6.43%
       </text>
     </g>
   </g></g>

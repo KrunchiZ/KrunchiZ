@@ -109,12 +109,13 @@ The unforgiving curriculum is exactly the kind of environment I thrive in. Proje
 
 ### How My Past Shapes My Code
 
-Working in VFX hsa taught me to break complex systems into layers, optimize for performance (render times are unforgiving), and communicate technical ideas to non-technical people — skills that translate directly into writing clean, efficient codes and pipelines. \
+Working in VFX has taught me to break complex systems into layers, optimize for performance (render times are unforgiving), and communicate technical ideas to non-technical people — skills that translate directly into writing clean, efficient codes and pipelines. \
 \
 Furthermore, lecturing at **The One Academy** has sharpened my ability to explain *why* something works, not just that it does.
 
 | **Experience**          | **Company**                                               |
 | ---                     | ---                                                       |
+| AI Full Stack Engineer  | [Encore Med Sdn Bhd ](https://encoremed.io/corporate/)    |
 | Workshop Facilitator    | [42 Kuala Lumpur](https://www.instagram.com/42malaysia/)  |
 | CGI/VFX Lighting Artist | [Tau Films](https://taufilms.com/)                        |
 | Lecturer                | [The One Academy](https://www.toa.edu.my/)                |
